@@ -1,50 +1,51 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9967A&height=180&section=header&text=Bem-%20vindo&fontColor=8B4513&fontSize=60"/>
+<div align="center">
 
-[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35¢er=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Matheus+Maia+Alvarez;I tenho+17+anos;sou+do+Brasil,+SP;estudo+desenvolvimento+de+sistemas+no+Senai;Seja+bem-vindo!+:%29)](https://git.io/typing -svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MthAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117 " />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=960000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Lorraine;Tenho+23+anos;Estudo+Sistemas+de+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+  
 </div>
 
-![ Contribuição ](https://activity-graph.herokuapp.com/graph?username=MthAlvarez&theme=gotham&hide_border=true&area=true)
+<div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor= branco"</a>
+  ![ Lo-Emmerick GitHub stats ](https://github-readme-stats.vercel.app/api?username=Lo-Emmerick&show_icons=true&theme=dracula&count_private=true)
+  [![Lo-Emmerick Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lo-Emmerick&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
-  
 
-###  Habilidades principais:
-  ![ GitHub ](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)  
-![ CSS ](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)  
-![ React.js ](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)  
-![ C# ](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)   
+<hr></hr>
 
-###  Ferramentas:
-![ Visual Studio Code ](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)  
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)  -->
-![ GitHub ](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)  
-![ Windows ](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)  
-![ microsoft-office ](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A70611&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Entre+em+contato+comigo%3A)](https://git.io/typing-svg)
 
-###  Outros Conhecimentos:
-![ Python ](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)  
-![ Boostrap ](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)  
-![ MySQL ](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)  
-![ Figma ](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)  
-  
-###  Estudando neste momento:
-![ JavaScript ](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)  
-![ Node.JS ](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)  
+<div align="center">
+  <a href = "mailto:lorrainemmerick@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href= "https://www.linkedin.com/in/lorraine-emmerick-470541195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
-  <div align="center">
-<br><p align="center"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p>
-<br></div>
-  
+<hr></hr>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=footer"/>****
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A70611&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Tecnologias+que+utilizo+%2F++estudo%3A)](https://git.io/typing-svg)
+
+<div align="center">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</div>
+
+<hr></hr>
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Lo-Emmerick&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  </p>
+</div>
+
+<div align="center">
+  <br><p align="center"><b>Contagem de visitantes</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lo-Emmerick}/count.svg" /></p>
+  <br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9967A&height=100&section=footer"/>
