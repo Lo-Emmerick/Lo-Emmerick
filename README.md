@@ -1,10 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9967A&height=180&section=header&text=Bem-%20vindo&fontColor=8B4513&fontSize=60"/>
-<div align="center">
+<div>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B10013&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Lorraine)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B10013&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Tenho+23+anos)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B10013&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Estudo+Sistemas+de+Informa%C3%A7%C3%B5es)](https://git.io/typing-svg)
-  
+  **Olá!**  <br>
+  **Meu nome é Lorraine** <br>
+  **Tenho 23 anos** <br>
+  **Sou estudante de Sistemas de Informações** 
+ <br>
+  <br>
 </div>
 
 <div>
@@ -16,7 +18,8 @@
 
 <hr></hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A70611&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Entre+em+contato+comigo%3A)](https://git.io/typing-svg)
+**Entre em contato comigo:**
+<br>
 
 <div align="center">
   <a href = "mailto:lorrainemmerick@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -25,7 +28,8 @@
 
 <hr></hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A70611&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Tecnologias+que+utilizo+%2F++estudo%3A)](https://git.io/typing-svg)
+**Tecnologias que utilizo / estudo:**
+<br>
 
 <div align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
