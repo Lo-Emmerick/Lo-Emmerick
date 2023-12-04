@@ -38,6 +38,8 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img align="center" alt="mariadb" src="![image](https://github.com/Lo-Emmerick/Lo-Emmerick/assets/123266096/e326654f-8910-4fe5-8b5e-51d37cd8e13e)
+" />
 </div>
 
 <hr></hr>
