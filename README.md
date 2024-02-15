@@ -4,7 +4,8 @@
   **Olá!**  <br>
   **Meu nome é Lorraine** <br>
   **Tenho 24 anos** <br>
-  **Sou estudante de Sistemas de Informações** 
+  **Sou estudante do setimo período Sistemas de Informações** <br>
+  **Atuo a 2 anos como desenvolvedora, seja bem vindo(a) ao meu GitHub!**
  <br>
   <br>
 </div>
