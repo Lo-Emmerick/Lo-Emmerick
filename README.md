@@ -3,9 +3,11 @@
 
   **Olá!**  <br>
   **Meu nome é Lorraine** <br>
-  **Tenho 24 anos** <br>
-  **Sou estudante do setimo período de Sistemas de Informações** <br>
-  **Atuo a 2 anos como desenvolvedora, seja bem vindo(a) ao meu GitHub!**
+  **Tenho 25 anos** <br>
+  **Sou graduada em Sistemas de Informações e possuo curso Tecnico em Informática** <br>
+  **Atuo a 2 anos e 5 meses como desenvolvedora, seja bem vindo(a) ao meu GitHub!** <br>
+  **Sou apaixona por tecnologia e neste GitHub, compartilho meus projetos, experimentos e tudo que vou descobrindo pelo caminho.** <br>
+  **Sinta-se em casa para explorar, comentar e até colaborar comigo! Vamos crescer juntos(as)! 🚀💻**
  <br>
   <br>
 </div>
@@ -49,12 +51,6 @@
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Lo-Emmerick&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   </p>
-</div>
-
-<div align="center">
-  <br><p align="center"><b>Contagem de visitantes</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lo-Emmerick}/count.svg" /></p>
-  <br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9967A&height=100&section=footer"/>
