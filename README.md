@@ -45,12 +45,4 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<hr></hr>
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lo-Emmerick&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  </p>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9967A&height=100&section=footer"/>
