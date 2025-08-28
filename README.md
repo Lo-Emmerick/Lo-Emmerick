@@ -45,6 +45,8 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9967A&height=100&section=footer"/>
+<hr></hr>
 
 ![Snake animation](https://github.com/Lo-Emmerick/Lo-Emmerick/blob/output/snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9967A&height=100&section=footer"/>
